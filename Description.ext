@@ -1,0 +1,59 @@
+class CfgSounds
+{
+	sounds[] = {};
+	class malescream1
+	{
+		// how the sound is referred to in the editor (e.g. trigger effects)
+		name = "malescream1";
+
+		// filename, volume, pitch, distance (optional)
+		sound[] = { "ThreeSB\audio\malescream1.wss", 9, 1, 100 };
+
+		// subtitle delay in seconds, subtitle text
+		titles[] = {};
+	};
+	class malescream2
+	{
+		// how the sound is referred to in the editor (e.g. trigger effects)
+		name = "malescream2";
+
+		// filename, volume, pitch, distance (optional)
+		sound[] = { "ThreeSB\audio\malescream2.wss", 9, 1, 100 };
+
+		// subtitle delay in seconds, subtitle text
+		titles[] = {};
+	};
+	class malescream3
+	{
+		// how the sound is referred to in the editor (e.g. trigger effects)
+		name = "malescream3";
+
+		// filename, volume, pitch, distance (optional)
+		sound[] = { "ThreeSB\audio\malescream2.wss", 9, 1, 100 };
+
+		// subtitle delay in seconds, subtitle text
+		titles[] = {};
+	};
+	class femalescream1
+	{
+		// how the sound is referred to in the editor (e.g. trigger effects)
+		name = "femalescream1";
+
+		// filename, volume, pitch, distance (optional)
+		sound[] = { "ThreeSB\audio\femalescream1.wss", 9, 1, 100 };
+
+		// subtitle delay in seconds, subtitle text
+		titles[] = {};
+	};	
+	class femalescream2
+	{
+		// how the sound is referred to in the editor (e.g. trigger effects)
+		name = "femalescream2";
+
+		// filename, volume, pitch, distance (optional)
+		sound[] = { "ThreeSB\audio\femalescream2.wss", 9, 1, 100 };
+
+		// subtitle delay in seconds, subtitle text
+		titles[] = {};
+	};		
+};
