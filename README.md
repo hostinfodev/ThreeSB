@@ -6,9 +6,7 @@ ThreeSB is a helper-script for creating server-based, hyper-realistic SSB situat
 
 *Only supported in MP!*
 
-> [Video](https://www.youtube.com/watch?v=fI5xX6LcxYw)
-
-> [Video](https://www.youtube.com/watch?v=NmDke7k-Ehg)
+> [Video](https://www.youtube.com/watch?v=0mf6ouxrPjs)
 
 > ThreeSB - By [Grom](https://github.com/hostinfodev) 
 
