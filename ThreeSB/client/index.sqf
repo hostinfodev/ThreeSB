@@ -18,13 +18,12 @@ ThreeSB_exp = [
 	["[Vanilla] GBU-12", "Bo_GBU12_LGB"],
 	["[Vanilla] Detonation Charge", "DemoCharge_Remote_Ammo_Scripted"]
 ];
+
 ///////////////////////////////////////////////////////////////
 
 if ("cup_vehicles_core" in activatedAddons) then {
 	ThreeSB_vics = ThreeSB_vics + [
 		["[CUP] Sedan", "CUP_C_Octavia_CIV"],
-		["[CUP] SUV", "CUP_C_SUV_CIV"],
-		["[CUP] Truck", "CUP_C_Truck_02_covered_CIV"],
 		["[CUP] VW Golf (Black)", "CUP_C_Golf4_black_Civ"],
 		["[CUP] Datsun Truck", "CUP_C_Datsun"],
 		["[CUP] Pickup Truck", "CUP_C_Pickup_unarmed_CIV"]
