@@ -14,6 +14,9 @@ ThreeSB is a helper-script for creating server-based, hyper-realistic SSB situat
 
 > Based on `fn_taskHunt.sqf` by [nk3nny](https://github.com/nk3nny) 
 
+> ZEN Integration
+![](https://github.com/hostinfodev/ThreeSB/blob/main/ThreeSB/docs/create_new_ssb.png?raw=true)
+
 
 # Installation
 - Simply move folder "ThreeSB" to your mission folder.
