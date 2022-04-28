@@ -4,6 +4,8 @@
 
 ThreeSB is a helper-script for creating server-based, hyper-realistic SSB situations in Arma 3 that includes AI that stalks players on foot and in any vehicle, immersive vocalizing and animation, and many configurable options. I (the developer) do not hope to glorify the actions that this script represents and am purely releasing it for the Arma 3 mission scripting community as it adds quite a shocking (and fun) experience to any mission.
 
+*Only supported in MP!*
+
 > [Video](https://www.youtube.com/watch?v=fI5xX6LcxYw)
 
 > [Video](https://www.youtube.com/watch?v=NmDke7k-Ehg)
