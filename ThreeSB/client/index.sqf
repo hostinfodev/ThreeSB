@@ -1,6 +1,6 @@
 // https://zen-mod.github.io/ZEN/#/frameworks/dynamic_dialog
 
-private _m = "3SB";
+private _m = "3SB By Grom";
 
 // ADD NEW UNITS BELOW
 ThreeSB_ssbs = [
@@ -182,7 +182,7 @@ if !([_m, "Create New SSB", {
 					25,
 					0,
 					_zen_pos,
-					[1, 1, 1, 1]
+					[1, 0, 0, 1]
 				],
 				false
 			],
@@ -268,8 +268,6 @@ if !([_m, "Create New SSB", {
 			private _explo_class= _user_set select 2;
 			private _interval   = _user_set select 6; // 5 seconds
 			private _is_fem     = _user_set select 8;
-
-			systemChat format["Test: %1", _this];
 
 			[
 				[
