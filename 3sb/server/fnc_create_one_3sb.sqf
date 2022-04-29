@@ -3,7 +3,7 @@
 
 /*
 	File:	
-		ThreeSB\server\fnc_create_one_3sb.sqf
+		3sb\server\fnc_create_one_3sb.sqf
 	
 	Description:
 		This function spawns a new 3SB pawn.
@@ -90,7 +90,7 @@ _unit allowDamage true;
 	_explosion_type, 
 	_interval, 
 	_isfemale
-], "ThreeSB\server\fnc_3sb_manager.sqf"] remoteExec ["execVM", 2];
+], "3sb\server\fnc_3sb_manager.sqf"] remoteExec ["execVM", 2];
 
 
 

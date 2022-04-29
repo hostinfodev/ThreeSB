@@ -1,2 +1,8 @@
 initPlayerLocal.sqf
 mission.sqm
+*.bikey
+*.cfg
+dist
+mod
+package.py
+Development/mods.json

@@ -17,7 +17,7 @@ ThreeSB is a helper-script for creating server-based, hyper-realistic SSB situat
 
 
 # Installation
-- Simply move folder "ThreeSB" to your mission folder.
+- Simply move folder "3sb" to your mission folder.
 - Merge "Description.ext" with your own "Description.ext".
 - Subscribe to & enable [Zeus Enhanced Mod](https://steamcommunity.com/workshop/filedetails/?id=1779063631) (required).
 
@@ -41,7 +41,7 @@ So far, Zeus' can drag the module onto a unit as well as create entirely new uni
  "Bo_GBU12_LGB",
  5,
  false
-] execVM "ThreeSB\server\fnc_create_one_3sb.sqf";
+] execVM "3sb\server\fnc_create_one_3sb.sqf";
 ```
 ## Spawn a male on foot - 100m
 ```sqf
@@ -59,7 +59,7 @@ So far, Zeus' can drag the module onto a unit as well as create entirely new uni
  "Bo_GBU12_LGB",
  5,
  false
-] execVM "ThreeSB\server\fnc_create_one_3sb.sqf";
+] execVM "3sb\server\fnc_create_one_3sb.sqf";
 ```
 ## Spawn a female on foot - 100m
 ```sqf
@@ -77,7 +77,7 @@ So far, Zeus' can drag the module onto a unit as well as create entirely new uni
  "Bo_GBU12_LGB",
  5,
  true
-] execVM "ThreeSB\server\fnc_create_one_3sb.sqf";
+] execVM "3sb\server\fnc_create_one_3sb.sqf";
 ```
 
 # Parameters:

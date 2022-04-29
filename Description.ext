@@ -7,7 +7,7 @@ class CfgSounds
 		name = "malescream1";
 
 		// filename, volume, pitch, distance (optional)
-		sound[] = { "ThreeSB\audio\malescream1.wss", 9, 1, 100 };
+		sound[] = { "3sb\audio\malescream1.wss", 9, 1, 100 };
 
 		// subtitle delay in seconds, subtitle text
 		titles[] = {};
@@ -18,7 +18,7 @@ class CfgSounds
 		name = "malescream2";
 
 		// filename, volume, pitch, distance (optional)
-		sound[] = { "ThreeSB\audio\malescream2.wss", 9, 1, 100 };
+		sound[] = { "3sb\audio\malescream2.wss", 9, 1, 100 };
 
 		// subtitle delay in seconds, subtitle text
 		titles[] = {};
@@ -29,7 +29,7 @@ class CfgSounds
 		name = "malescream3";
 
 		// filename, volume, pitch, distance (optional)
-		sound[] = { "ThreeSB\audio\malescream2.wss", 9, 1, 100 };
+		sound[] = { "3sb\audio\malescream2.wss", 9, 1, 100 };
 
 		// subtitle delay in seconds, subtitle text
 		titles[] = {};
@@ -40,7 +40,7 @@ class CfgSounds
 		name = "femalescream1";
 
 		// filename, volume, pitch, distance (optional)
-		sound[] = { "ThreeSB\audio\femalescream1.wss", 9, 1, 100 };
+		sound[] = { "3sb\audio\femalescream1.wss", 9, 1, 100 };
 
 		// subtitle delay in seconds, subtitle text
 		titles[] = {};
@@ -51,7 +51,7 @@ class CfgSounds
 		name = "femalescream2";
 
 		// filename, volume, pitch, distance (optional)
-		sound[] = { "ThreeSB\audio\femalescream2.wss", 9, 1, 100 };
+		sound[] = { "3sb\audio\femalescream2.wss", 9, 1, 100 };
 
 		// subtitle delay in seconds, subtitle text
 		titles[] = {};

@@ -81,7 +81,7 @@ if !([_m, "Make Unit SSB", {
 			_explo_class,
 			_interval,
 			_is_fem
-		], "ThreeSB\server\fnc_make_unit_3sb.sqf"
+		], "3sb\server\fnc_make_unit_3sb.sqf"
 	] remoteExec ["execVM", 2];
 }] call zen_custom_modules_fnc_register) then {
 	systemChat "[3SB] Failed to add module feature: Make Unit SSB";
@@ -283,7 +283,7 @@ if !([_m, "Create New SSB", {
 					_explo_class,
 					_interval,
 					_is_fem
-				], "ThreeSB\server\fnc_create_one_3sb.sqf"
+				], "3sb\server\fnc_create_one_3sb.sqf"
 			] remoteExec ["execVM", 2];
 			
 		},

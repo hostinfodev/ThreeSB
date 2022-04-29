@@ -3,7 +3,7 @@
 
 /*
 	File:	
-		ThreeSB\server\fnc_make_unit_3sb.sqf
+		3sb\server\fnc_make_unit_3sb.sqf
 	
 	Description:
 		This function makes an existing unit a 3SB pawn.
@@ -25,6 +25,6 @@
 */
 
 // Send to the manager
-[_this, "ThreeSB\server\fnc_3sb_manager.sqf"] remoteExec ["execVM", 2];
+[_this, "3sb\server\fnc_3sb_manager.sqf"] remoteExec ["execVM", 2];
 
 
